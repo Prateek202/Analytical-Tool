@@ -57,7 +57,7 @@ The **Gen AI Query Dashboard** is a React-based analytics tool that allows users
 
 ## Folder Structure
 ```
-📂 gen-ai-query-dashboard
+📂 Business-Analytical-Tool
 ├── 📁 src
 │   ├── 📁 components  # Reusable UI components
 │   ├── 📁 redux       # Redux slices & store
