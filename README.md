@@ -27,7 +27,7 @@ The **Gen AI Query Dashboard** is a React-based analytics tool that allows users
 1. Clone the repository:
    ```sh
    git https://github.com/Prateek202/Analytical-Tool
-   cd gen-ai-query-dashboard
+   cd Business-Analytical-Tool
    ```
 2. Install dependencies:
    ```sh
